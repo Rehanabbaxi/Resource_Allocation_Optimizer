@@ -45,7 +45,8 @@ The project is tailored for public sector networks where resources are scarce an
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.10
+- 
 - `pip install` the following dependencies:
   - `groq`
   - `streamlit`
